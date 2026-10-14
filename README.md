@@ -12,10 +12,6 @@ Machine Learning Techniques for Artist Identification"* (Chen & Deng, Stanford C
 | **Nagalapuram Sai Mukesh Reddy** | PES1UG24AM170 |
 | **Manasvi G V** | PES1UG24AM156 |
 
-This repository is a copy of the team repository
-[oomploompaluvr/artist-id](https://github.com/oomploompaluvr/artist-id), which holds the full commit history
-of both members.
-
 ## Results (same 584 test paintings for every model)
 
 | Model | Type | Test accuracy | Macro F1 |
