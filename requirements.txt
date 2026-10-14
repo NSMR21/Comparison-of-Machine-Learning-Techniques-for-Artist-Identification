@@ -1,0 +1,23 @@
+# Classical ML (artist_id/, scripts/01-07)
+numpy
+scipy
+pandas
+opencv-contrib-python
+mahotas
+scikit-image
+scikit-learn
+matplotlib
+joblib
+tqdm
+pillow
+
+# Deep learning (scripts/08-10, written for Google Colab)
+tensorflow>=2.16
+
+# Live demo (demo.py)
+gradio
+
+# Write-up generation (scripts/07)
+python-docx
+latex2mathml
+lxml
