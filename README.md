@@ -7,10 +7,10 @@ Machine Learning Techniques for Artist Identification"* (Chen & Deng, Stanford C
 
 ## Contributors
 
-| Member | Work |
+| Member | SRN |
 |---|---|
-| **Nagalapuram Sai Mukesh Reddy** | Classical ML: feature extraction (GIST, Hu moments, colour histogram, SIFT, HOG, Haralick), Min-Max + PCA pipeline, Logistic Regression and RBF SVM with grid search (`artist_id/`, `scripts/01-07`, `results/` SVM/LR files, `figures/`); test-set evaluation script (`scripts/10_evaluate_deep_models.py`); live demo (`demo.py`); README |
-| **Manasvi Venugopal** | Deep learning: baseline CNN and MobileNetV2 training (`scripts/08_train_baseline_cnn.py`, `scripts/09_train_mobilenetv2.py`), trained models (`results/models/*.keras`), CNN / MobileNetV2 results and model comparison (`results/cnn_*`, `results/mobilenet_*`, `results/final_model_comparison.csv`); shared train/val/test split (`data/`) |
+| **Nagalapuram Sai Mukesh Reddy** | PES1UG24AM170 |
+| **Manasvi G V** | PES1UG24AM156 |
 
 This repository is a copy of the team repository
 [oomploompaluvr/artist-id](https://github.com/oomploompaluvr/artist-id), which holds the full commit history
